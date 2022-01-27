@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Yu Chen'S home on the web!
+This is Yu Chen's home on the web!
