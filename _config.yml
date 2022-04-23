@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Chen"
+title                    : "Homepage for Yu Chen"
 title_separator          : "-"
 name                     : &name "Yu Chen"
 description              : &description "PhD student in Nanjing University"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yu Chen"
   avatar           : "profile.png"
-  bio              : "PhD student in Nanjing University"
+  bio              : "PhD Student (Five-year Program since 2019)"
   location         : "Nanjing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
