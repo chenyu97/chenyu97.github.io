@@ -15,3 +15,6 @@ author_profile: true
 Can Wang, Sheng Zhang, **Yu Chen**, Zhuzhong Qian, Jie Wu and Mingjun Xiao. Joint Configuration Adaptation and Bandwidth Allocation for Edge-based Real-time Video Analytics. IEEE Annual International Conference on Computer Communications (INFOCOM 2020, CCF-A), 2020
 
 **Yu Chen**, Sheng Zhang, Yanchao Zhao, Zhuzhong Qian, Yu Liang, Jidong Ge and Sanglu Lu. Efficient VNF Migration and Recovery in Edge Computing Environments. ACM 48th International Conference on Parallel Processing (ICPP 2019, CCF-B), Poster, 2019
+
+戴炀,**陈彧**,祝永晋,张胜 边缘环境下的自适应视频分析 计算机应用,2020
+
