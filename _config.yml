@@ -82,17 +82,12 @@ analytics:
 author:
   name             : "Yu Chen"
   avatar           : "profile.png"
-  bio              : "PhD Student (Five-year Program since 2019)\n\
-                      Email: nju\_chen AT 163.com\n\
-                      Supervisor: Associate Prof. Sheng Zhang and Prof. Sanglu Lu\n\
-                      Office: 429, State Key Laboratory of Novel Software Technology\
-                      Department of Computer Science and Technology\
-                      Nanjing University, P.R.China"
+  bio              : 
   location         : "Nanjing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : ""
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
