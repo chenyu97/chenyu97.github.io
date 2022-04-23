@@ -14,3 +14,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Education
+======
+* B.S. in Computer Science and Technology, Nanjing University, 2019
+* Ph.D in Computer Science and Technology, Nanjing University, 2024 (expected)
