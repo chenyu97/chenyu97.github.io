@@ -4,13 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### Journal Papers
+## <u>Journal Papers</u>
 
 **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Jidong Ge and Sanglu Lu. LOCUS: User-perceived Delay-aware Service Placement and User Allocation in MEC Environment. IEEE Transactions on Parallel and Distributed Systems (TPDS 2022, CCF-A), vol. 33(7), 2022: 1581-1592.
 
 戴炀,**陈彧**,祝永晋,张胜. 边缘环境下的自适应视频分析. 计算机应用,2020
 
-### Conference Papers
+## <u>Conference Papers</u>
 **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, and Sanglu Lu. Multi-server multi-user game at edges for heterogeneous video analytics. In: Proceedings of IEEE International Conference on Communications (ICC 2022, CCF-C),  2022
 
 **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Ning Chen and Zhi Ma. Learning for Crowdsourcing: Online Dispatch for Video Analytics with Guarantee. In: Proceedings of the 41th Annual IEEE International Conference on Computer Communications (INFOCOM 2022, CCF-A), Virtual Conference, 2022
