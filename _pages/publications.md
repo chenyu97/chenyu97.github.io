@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## <u>Journal Papers</u>
 
-[J.2] **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Jidong Ge and Sanglu Lu. LOCUS: User-perceived Delay-aware Service Placement and User Allocation in MEC Environment. IEEE Transactions on Parallel and Distributed Systems (TPDS 2022, CCF-A), vol. 33(7), 2022: 1581-1592.
+[J.2] **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Jidong Ge and Sanglu Lu. LOCUS: User-perceived Delay-aware Service Placement and User Allocation in MEC Environment. IEEE Transactions on Parallel and Distributed Systems (TPDS 2022, CCF-A), vol. 33(7), 2022: 1581-1592. [pdf](http://academicpages.github.io/files/Locus.pdf)
 
 [J.1] 戴炀,**陈彧**,祝永晋,张胜. 边缘环境下的自适应视频分析. 计算机应用,2020
 
