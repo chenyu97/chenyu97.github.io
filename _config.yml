@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage for Yu Chen"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yu Chen"
 description              : &description "PhD student in Nanjing University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yu Chen"
   avatar           : "profile.png"
-  bio              : "A PhD Student in Nanjing University"
+  bio              : "PhD Student in Nanjing University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
