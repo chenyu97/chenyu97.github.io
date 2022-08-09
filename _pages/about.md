@@ -14,5 +14,5 @@ redirect_from:
 **Office:** Room 429, CS Building, Xianlin Campus, Nanjing University  
 **Affiliate:** State Key Laboratory of Novel Software Technology, Department of Computer Science and Technology, Nanjing University, P.R.China
 
-# <u>***News***</u>
-- [2022.07.29] A paper is accepted to Journal of Software.
+# ***<u>News</u>***
+- [2022.07.29] A paper is accepted to **Journal of Software**.
