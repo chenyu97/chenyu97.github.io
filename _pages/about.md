@@ -14,5 +14,5 @@ redirect_from:
 **Office:** Room 429, CS Building, Xianlin Campus, Nanjing University  
 **Affiliate:** State Key Laboratory of Novel Software Technology, Department of Computer Science and Technology, Nanjing University, P.R.China
 
-# ***News***
-[C.5] **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, and Sanglu Lu. Multi-server multi-user game at edges for heterogeneous video analytics. In: Proceedings of IEEE International Conference on Communications (ICC 2022, CCF-C),  2022 [[pdf](http://chenyu97.github.io/files/Yu_ICC22.pdf)]
+# <u>***News***</u>
+- [2022.07.29] A paper is accepted to Journal of Software.
