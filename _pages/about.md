@@ -15,5 +15,5 @@ redirect_from:
 **Affiliate:** State Key Laboratory of Novel Software Technology, Department of Computer Science and Technology, Nanjing University, P.R.China
 
 # ***<u>News</u>***
-- **[2022.10.21]** Honored with National Scholarship.
+- **[2022.10.21]** Honored with *National Scholarship*.
 - **[2022.07.29]** A paper is accepted to *Journal of Software*.
