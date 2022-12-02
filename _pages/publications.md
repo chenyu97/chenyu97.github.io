@@ -15,9 +15,13 @@ author_profile: true
 
 ## <u>Conference Papers</u>
 
+[C.7] **Yu Chen**, Sheng Zhang, Yuting Yan, Yibo Jin, Ning Chen and Mingjun Xiao. $Crowd^2$: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing. IEEE Annual International Conference on Computer Communications (INFOCOM 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
+
+[C.6] Ning Chen, Shuai Zhang, Sheng Zhang, Yuting Yan, **Yu Chen** and Sanglu Lu. ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross-Edge Video Analytics. IEEE Annual International Conference on Computer Communications (INFOCOM 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
+
 [C.5] **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, and Sanglu Lu. Multi-server multi-user game at edges for heterogeneous video analytics. In: Proceedings of IEEE International Conference on Communications (ICC 2022, CCF-C),  2022 [[pdf](http://chenyu97.github.io/files/Yu_ICC22.pdf)]
 
-[C.4] **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Ning Chen and Zhi Ma. Learning for Crowdsourcing: Online Dispatch for Video Analytics with Guarantee. In: Proceedings of the 41th Annual IEEE International Conference on Computer Communications (INFOCOM 2022, CCF-A), Virtual Conference, 2022 [[pdf](http://chenyu97.github.io/files/Yu_INFOCOM22.pdf)]
+[C.4] **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Ning Chen and Zhi Ma. Learning for Crowdsourcing: Online Dispatch for Video Analytics with Guarantee. IEEE Annual International Conference on Computer Communications (INFOCOM 2022, CCF-A), Virtual Conference, 2022 [[pdf](http://chenyu97.github.io/files/Yu_INFOCOM22.pdf)]
 
 [C.3] **Yu Chen**, Sheng Zhang, Mingjun Xiao, Zhuzhong Qian, Jie Wu and Sanglu Lu. Multi-user Edge-assisted Video Analytics Task Offloading Game based on Deep Reinforcement Learning. IEEE International Conference on Parallel and Distributed Systems (ICPADS 2020, CCF-C), 2020 [[pdf](http://chenyu97.github.io/files/Yu_ICPADS20.pdf)]
 
