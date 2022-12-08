@@ -15,7 +15,7 @@ author_profile: true
 
 ## <u>Conference Papers</u>
 
-[C.7] **Yu Chen**, Sheng Zhang, Yuting Yan, Yibo Jin, Ning Chen and Mingjun Xiao. $Crowd^2$: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing. IEEE Annual International Conference on Computer Communications (INFOCOM 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
+[C.7] **Yu Chen**, Sheng Zhang, Yuting Yan, Yibo Jin, Ning Chen, Mingtao Ji and Mingjun Xiao. $Crowd^2$: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing. IEEE Annual International Conference on Computer Communications (INFOCOM 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
 
 [C.6] Ning Chen, Shuai Zhang, Sheng Zhang, Yuting Yan, **Yu Chen** and Sanglu Lu. ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross-Edge Video Analytics. IEEE Annual International Conference on Computer Communications (INFOCOM 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
 
