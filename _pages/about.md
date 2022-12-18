@@ -15,7 +15,7 @@ redirect_from:
 **Affiliate:** State Key Laboratory of Novel Software Technology, Department of Computer Science and Technology, Nanjing University, P.R.China
 
 # ***<u>News</u>***
-- **[2022.12.09]** Honored with *<font color="#660000">Excellent Postgraduate Pacesetter</font>*.
-- **[2022.12.02]** Two papers are accepted to *<font color="#660000">INFOCOM'23</font>*.
-- **[2022.10.21]** Honored with *<font color="#660000">National Scholarship</font>*.
-- **[2022.07.29]** A paper is accepted to *<font color="#660000">Journal of Software</font>*.
+- **[2022.12.09]** Honored with *<font color="#dd0000">Excellent Postgraduate Pacesetter</font>*.
+- **[2022.12.02]** Two papers are accepted to *<font color="#dd0000">INFOCOM'23</font>*.
+- **[2022.10.21]** Honored with *<font color="#dd0000">National Scholarship</font>*.
+- **[2022.07.29]** A paper is accepted to *<font color="#dd0000">Journal of Software</font>*.
