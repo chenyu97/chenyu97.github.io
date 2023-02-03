@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Name:** Yu Chen (陈彧)  [[CV](http://chenyu97.github.io/files/cv.pdf)]
+**Name:** Yu Chen (陈彧) [[CV](http://chenyu97.github.io/files/cv.pdf)]  
 **Status:** PhD Student (Five-year Program since 2019)  
 **Supervisor:** Associate Prof. Sheng Zhang and Prof. Sanglu Lu  
 **Email:** nju_chenyu AT 163.com  
