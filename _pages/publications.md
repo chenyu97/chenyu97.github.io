@@ -14,6 +14,7 @@ author_profile: true
 
 
 ## <u>Conference Papers</u>
+
 [C.8] Mingtao Ji, Chenwei Su, Yuting Yan, Zhuzhong Qian, **Yu Chen**, Yibo Jin, Sheng Zhang, and Baoliu Ye. INTView: Adaptive Planner for In-Band Network Telemetry without Detours. In: Proceedings of IEEE International Conference on Communications (ICC 2023, CCF-C),  2023 [[pdf](http://chenyu97.github.io)]
 
 [C.7] **Yu Chen**, Sheng Zhang, Yuting Yan, Yibo Jin, Ning Chen, Mingtao Ji and Mingjun Xiao. $Crowd^2$: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing. IEEE Annual International Conference on Computer Communications (INFOCOM 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
@@ -29,3 +30,7 @@ author_profile: true
 [C.2] Can Wang, Sheng Zhang, **Yu Chen**, Zhuzhong Qian, Jie Wu and Mingjun Xiao. Joint Configuration Adaptation and Bandwidth Allocation for Edge-based Real-time Video Analytics. IEEE Annual International Conference on Computer Communications (INFOCOM 2020, CCF-A), 2020 [[pdf](http://chenyu97.github.io/files/Can_INFOCOM20.pdf)]
 
 [C.1] **Yu Chen**, Sheng Zhang, Yanchao Zhao, Zhuzhong Qian, Yu Liang, Jidong Ge and Sanglu Lu. Efficient VNF Migration and Recovery in Edge Computing Environments. ACM 48th International Conference on Parallel Processing (ICPP 2019, CCF-B), Poster, 2019 [[pdf](http://chenyu97.github.io/files/Yu_ICPP19.pdf)]
+
+## <u>Patent</u>
+
+[P.1] Pengju Jiao, Sheng Zhang, **Yu Chen** and Zhuzhong Qian. VNF migration method and device and storage medium (一种VNF迁移方法、装置及存储介质). Authorization Number: 112019368 [[link](https://patentscope2.wipo.int/search/zh/detail.jsf?docId=CN313574349&_cid=JP2-LDNY63-89791-1)]
