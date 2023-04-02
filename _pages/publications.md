@@ -15,7 +15,9 @@ author_profile: true
 
 ## <u>Conference Papers</u>
 
-[C.8] Mingtao Ji, Chenwei Su, Yuting Yan, Zhuzhong Qian, **Yu Chen**, Yibo Jin, Sheng Zhang, and Baoliu Ye. INTView: Adaptive Planner for In-Band Network Telemetry without Detours. In: Proceedings of IEEE International Conference on Communications (ICC 2023, CCF-C),  2023 [[pdf](http://chenyu97.github.io)]
+[C.9] Xiaohang Shi, Sheng Zhang, Ke Cheng, **Yu Chen**, Andong Zhu, and Sanglu Lu. OSCA: Online User-managed Server Selection and Configuration Adaptation for Interactive MAR. In: IEEE/ACM International Symposium on Quality of Service (IWQoS 2023, CCF-B), 2023 [[pdf](http://chenyu97.github.io)]
+
+[C.8] Mingtao Ji, Chenwei Su, Yuting Yan, Zhuzhong Qian, **Yu Chen**, Yibo Jin, Sheng Zhang, and Baoliu Ye. INTView: Adaptive Planner for In-Band Network Telemetry without Detours. In: Proceedings of IEEE International Conference on Communications (ICC 2023, CCF-C), 2023 [[pdf](http://chenyu97.github.io)]
 
 [C.7] **Yu Chen**, Sheng Zhang, Yuting Yan, Yibo Jin, Ning Chen, Mingtao Ji and Mingjun Xiao. $Crowd^2$: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing. IEEE Annual International Conference on Computer Communications (INFOCOM 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
 
