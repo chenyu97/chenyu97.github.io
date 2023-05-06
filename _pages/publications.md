@@ -16,6 +16,7 @@ author_profile: true
 
 
 ## <u>Conference Papers</u>
+[C.10] Mingtao Ji, Chenwei Su, Yuting Yan, Zhuzhong Qian, Sheng Zhang, **Yu Chen**, Tuo Cao, Xiaohang Shi, Luis Vasquez, and Baoliu Ye. Adaptive Provisioning In-band Network Telemetry at Computing Power Network. In: IEEE/ACM International Symposium on Quality of Service (IWQoS 2023, CCF-B), Poster, 2023 [[pdf](http://chenyu97.github.io)]
 
 [C.9] Xiaohang Shi, Sheng Zhang, Ke Cheng, **Yu Chen**, Andong Zhu, and Sanglu Lu. OSCA: Online User-managed Server Selection and Configuration Adaptation for Interactive MAR. In: IEEE/ACM International Symposium on Quality of Service (IWQoS 2023, CCF-B), 2023 [[pdf](http://chenyu97.github.io)]
 
