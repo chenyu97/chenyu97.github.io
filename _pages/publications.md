@@ -6,6 +6,8 @@ author_profile: true
 ---
 ## <u>Journal Papers</u>
 
+[J.5] Ning Chen, Sheng Zhang, Zhi Ma, **Yu Chen**, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang and Sanglu Lu. ViChaser: Chase Your Viewpoint for Live Video Streaming with Block-Oriented Super-Resolution. IEEE/ACM Transactions on Networking (ToN 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
+
 [J.4] **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Wenzhong Li, Yu Liang and Sanglu Lu. Crowdsourcing upon Learning: Energy-aware Dispatch with Guarantee for Video Analytics. IEEE Transactions on Mobile Computing (TMC 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
 
 [J.3] **陈彧**,张胜,金熠波,钱柱中,陆桑璐. 基于博弈论的多服务器多用户视频分析任务卸载算法. 软件学报(CCF-A), 2022 [[pdf](http://chenyu97.github.io/files/Yu_JoS22.pdf)]
