@@ -4,6 +4,8 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+[A.12] 2023 Best Paper Award in CCFSys'23  
+[A.11] 2023 Excellent Communist Party Member, Department of Computer Science at Nanjing University  
 [A.10] 2023 Excellent Communist Youth League Cadres at Nanjing University  
 [A.09] 2023 Three Good Student of Jiangsu Province  
 [A.08] 2022 Excellent Postgraduate Pacesetter at Nanjing University  

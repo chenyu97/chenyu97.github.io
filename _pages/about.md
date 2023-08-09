@@ -15,7 +15,10 @@ redirect_from:
 **Affiliate:** State Key Laboratory of Novel Software Technology, Department of Computer Science and Technology, Nanjing University, P.R.China
 
 # ***<u>News</u>***
+- **[2023.08.08]** Honored with *<font color="#dd0000">Best Paper Award in CCFSys'23</font>*.
+- **[2023.07.18]** Our paper is accepted to *<font color="#dd0000">CCFSys'23</font>*.
 - **[2023.06.12]** Our paper is accepted to *<font color="#dd0000">ToN'23</font>*.
+- **[2023.06.04]** Honored with *<font color="#dd0000">Excellent Communist Party Member, Department of Computer Science at Nanjing University</font>*.
 - **[2023.05.04]** Honored with *<font color="#dd0000">Excellent Communist Youth League Cadres at Nanjing University</font>*.
 - **[2023.04.29]** Our paper is accepted to *<font color="#dd0000">IWQoS'23</font>* Poster.
 - **[2023.04.20]** Our paper is accepted to *<font color="#dd0000">Transaction on Mobile Computing (TMC)</font>*.

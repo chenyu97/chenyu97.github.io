@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## <u>Journal Papers</u>
+[J.6] Yingcheng Gu, Liu Wei, Ning Jiang, Huanyu Cheng, Kai Liu, Yu Song, Meizhao Liu, Lei Tang, **Yu Chen**, Sheng Zhang. Edge Server Assignment for Distributed Interactive Applications in Edge Environments. CCFSys'23, 2023 [[pdf](http://chenyu97.github.io)]
 
 [J.5] Ning Chen, Sheng Zhang, Zhi Ma, **Yu Chen**, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang and Sanglu Lu. ViChaser: Chase Your Viewpoint for Live Video Streaming with Block-Oriented Super-Resolution. IEEE/ACM Transactions on Networking (ToN 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
 
