@@ -15,6 +15,8 @@ redirect_from:
 **Affiliate:** State Key Laboratory of Novel Software Technology, Department of Computer Science and Technology, Nanjing University, P.R.China
 
 # ***<u>News</u>***
+- **[2023.12.01]** Our two papers are accepted to *<font color="#dd0000">INFOCOM'24</font>*.
+- **[2023.11.22]** Honored with *<font color="#dd0000">Baosteel Scholarship</font>*.
 - **[2023.08.08]** Honored with *<font color="#dd0000">Best Paper Award in CCFSys'23</font>*.
 - **[2023.07.18]** Our paper is accepted to *<font color="#dd0000">CCFSys'23</font>*.
 - **[2023.06.12]** Our paper is accepted to *<font color="#dd0000">ToN'23</font>*.

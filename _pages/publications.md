@@ -19,6 +19,12 @@ author_profile: true
 
 
 ## <u>Conference Papers</u>
+[C.12] Yuting Yan, Sheng Zhang, Xiaokun Wang, Ning Chen, **Yu Chen**, Yu Liang, Mingjun Xiao and Sanglu Lu. VisFlow: Adaptive Content-Aware Video Analytics on Collaborative Cameras. IEEE Annual International Conference on Computer Communications (INFOCOM 2024, CCF-A), 2024 [[pdf](http://chenyu97.github.io)]
+
+[C.11]
+Ning Chen, Sheng Zhang, Yu Liang, Jie Wu, **Yu Chen**, Yuting Yan, Zhuzhong Qian and Sanglu Lu. TileSR: Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity. IEEE Annual International Conference on Computer Communications (INFOCOM 2024, CCF-A), 2024 [[pdf](http://chenyu97.github.io)]
+
+
 [C.10] Mingtao Ji, Chenwei Su, Yuting Yan, Zhuzhong Qian, Sheng Zhang, **Yu Chen**, Tuo Cao, Xiaohang Shi, Luis Vasquez, and Baoliu Ye. Adaptive Provisioning In-band Network Telemetry at Computing Power Network. In: IEEE/ACM International Symposium on Quality of Service (IWQoS 2023, CCF-B), Poster, 2023 [[pdf](http://chenyu97.github.io)]
 
 [C.9] Xiaohang Shi, Sheng Zhang, Ke Cheng, **Yu Chen**, Andong Zhu, and Sanglu Lu. OSCA: Online User-managed Server Selection and Configuration Adaptation for Interactive MAR. In: IEEE/ACM International Symposium on Quality of Service (IWQoS 2023, CCF-B), 2023 [[pdf](http://chenyu97.github.io)]
