@@ -12,9 +12,12 @@ redirect_from:
 **Supervisor:** Associate Prof. Sheng Zhang and Prof. Sanglu Lu  
 **Email:** nju_chenyu AT 163.com  
 **Office:** Room 429, CS Building, Xianlin Campus, Nanjing University  
-**Affiliate:** State Key Laboratory of Novel Software Technology, Department of Computer Science and Technology, Nanjing University, P.R.China
+**Affiliate:** State Key Laboratory of Novel Software Technology, Department of Computer Science and Technology, Nanjing University, P.R.China  
+
+(Last Modified: 2023/12/09) 
 
 # ***<u>News</u>***
+- **[2023.12.08]** Honored with *<font color="#dd0000">Excellent Postgraduate Cadres at Nanjing University</font>*.
 - **[2023.12.01]** Our two papers are accepted to *<font color="#dd0000">INFOCOM'24</font>*.
 - **[2023.11.22]** Honored with *<font color="#dd0000">Baosteel Scholarship</font>*.
 - **[2023.08.08]** Honored with *<font color="#dd0000">Best Paper Award in CCFSys'23</font>*.
