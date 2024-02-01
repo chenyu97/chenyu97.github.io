@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## <u>Journal Papers</u>
+[J.7] Mingtao Ji, Chenwei Su, Yitao Fan, Yibo Jin, Zhuzhong Qian, Yuting Yan, **Yu Chen**, Tuo Cao, Sheng Zhang, Baoliu Ye. INTaaS: Provisioning In-band Network Telemetry as a service via online learning. Elsevier Computer Networks, (COMNET 2024, CCF-B), 2024 [[pdf](http://chenyu97.github.io)]
+
 [J.6] Yingcheng Gu, Liu Wei, Ning Jiang, Huanyu Cheng, Kai Liu, Yu Song, Meizhao Liu, Lei Tang, **Yu Chen**, Sheng Zhang. Edge Server Assignment for Distributed Interactive Applications in Edge Environments. CCFSys'23, 2023 [[pdf](http://chenyu97.github.io)]
 
 [J.5] Ning Chen, Sheng Zhang, Zhi Ma, **Yu Chen**, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang and Sanglu Lu. ViChaser: Chase Your Viewpoint for Live Video Streaming with Block-Oriented Super-Resolution. IEEE/ACM Transactions on Networking (ToN 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
@@ -45,6 +47,9 @@ Ning Chen, Sheng Zhang, Yu Liang, Jie Wu, **Yu Chen**, Yuting Yan, Zhuzhong Qian
 
 [C.1] **Yu Chen**, Sheng Zhang, Yanchao Zhao, Zhuzhong Qian, Yu Liang, Jidong Ge and Sanglu Lu. Efficient VNF Migration and Recovery in Edge Computing Environments. ACM 48th International Conference on Parallel Processing (ICPP 2019, CCF-B), Poster, 2019 [[pdf](http://chenyu97.github.io/files/Yu_ICPP19.pdf)]
 
-## <u>Patent</u>
+## <u>Book Papers</u>
+[B.1] Shuai Zhang, **Yu Chen**, Sheng Zhang, Zhiqi Chen. Deepslicing: collaborative and adaptive cnn inference with low latency. Principles and Applications of Adaptive Artificial Intelligence, 2024 [[pdf](http://chenyu97.github.io)]
 
+
+## <u>Patent</u>
 [P.1] Pengju Jiao, Sheng Zhang, **Yu Chen** and Zhuzhong Qian. VNF migration method and device and storage medium (一种VNF迁移方法、装置及存储介质). Authorization Number: 112019368 [[link](https://patentscope2.wipo.int/search/zh/detail.jsf?docId=CN313574349&_cid=JP2-LDNY63-89791-1)]
