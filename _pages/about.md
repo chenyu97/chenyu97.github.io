@@ -14,9 +14,10 @@ redirect_from:
 **Office:** Room 429, CS Building, Xianlin Campus, Nanjing University  
 **Affiliate:** State Key Laboratory of Novel Software Technology, Department of Computer Science and Technology, Nanjing University, P.R.China  
 
-(Last Modified: 2024/01/31) 
+(Last Modified: 2024/02/24) 
 
 # ***<u>News</u>***
+- **[2024.02.23]** 🎉🎉🎉 Our paper is accepted to *<font color="#dd0000">MLSys'24</font>*.
 - **[2024.01.29]** 🎉🎉🎉 Our paper is accepted to *<font color="#dd0000">Principles and Applications of Adaptive Artificial Intelligence</font>*. 
 - **[2024.01.21]** 🎉🎉🎉 Our paper is accepted to *<font color="#dd0000">COMNET'24</font>*.
 - **[2023.12.08]** Honored with *<font color="#dd0000">Excellent Postgraduate Cadres at Nanjing University</font>*.

@@ -21,6 +21,8 @@ author_profile: true
 
 
 ## <u>Conference Papers</u>
+[C.13] Shan Yu, Zhenting Zhu, **Yu Chen**, Hanchen Xu, Pengzhan Zhao, Yang Wang, Arthi Padmanabhan, Hugo Latapie, and Harry Xu. VQPy: An Object-Oriented Approach to Modern Video Analytics. The Seventh Annual Conference on Machine Learning and Systems (MLSys 2024), 2024 [[pdf](http://chenyu97.github.io)]
+
 [C.12] Yuting Yan, Sheng Zhang, Xiaokun Wang, Ning Chen, **Yu Chen**, Yu Liang, Mingjun Xiao and Sanglu Lu. VisFlow: Adaptive Content-Aware Video Analytics on Collaborative Cameras. IEEE Annual International Conference on Computer Communications (INFOCOM 2024, CCF-A), 2024 [[pdf](http://chenyu97.github.io)]
 
 [C.11]
