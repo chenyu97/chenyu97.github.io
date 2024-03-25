@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## <u>Journal Papers</u>
-[J.7] Mingtao Ji, Chenwei Su, Yitao Fan, Yibo Jin, Zhuzhong Qian, Yuting Yan, **Yu Chen**, Tuo Cao, Sheng Zhang, Baoliu Ye. INTaaS: Provisioning In-band Network Telemetry as a service via online learning. Elsevier Computer Networks, (COMNET 2024, CCF-B), 2024 [[pdf](http://chenyu97.github.io)]
+[J.7] 顾颖程, 魏柳, 姜宁, 程环宇, 刘凯, 宋玉, 刘梅招, 汤雷, **陈彧**, 张胜. 边缘场景下面向分布式交互应用的服务器分配. 计算机工程与科学, 2024 [[pdf](http://chenyu97.github.io)]
 
-[J.6] Yingcheng Gu, Liu Wei, Ning Jiang, Huanyu Cheng, Kai Liu, Yu Song, Meizhao Liu, Lei Tang, **Yu Chen**, Sheng Zhang. Edge Server Assignment for Distributed Interactive Applications in Edge Environments. CCFSys'23, 2023 [[pdf](http://chenyu97.github.io)]
+[J.6] Mingtao Ji, Chenwei Su, Yitao Fan, Yibo Jin, Zhuzhong Qian, Yuting Yan, **Yu Chen**, Tuo Cao, Sheng Zhang, Baoliu Ye. INTaaS: Provisioning In-band Network Telemetry as a service via online learning. Elsevier Computer Networks, (COMNET 2024, CCF-B), 2024 [[pdf](http://chenyu97.github.io)]
 
 [J.5] Ning Chen, Sheng Zhang, Zhi Ma, **Yu Chen**, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang and Sanglu Lu. ViChaser: Chase Your Viewpoint for Live Video Streaming with Block-Oriented Super-Resolution. IEEE/ACM Transactions on Networking (ToN 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
 
@@ -21,16 +21,16 @@ author_profile: true
 
 
 ## <u>Conference Papers</u>
-[C.14] **Yu Chen**, Sheng Zhang, Ziying Zhou, Xiaokun Wang, Yu Liang, Ning Chen, Yuting Yan, Mingjun Xiao, Jie Wu, Zhuzhong Qian, and Harry Xu. MACRO: Incentivizing Multi-leader Game-based Pareto-efficient Crowdsourcing for Video Analytics. The 40th IEEE International Conference on Data Engineering (ICDE 2024, CCF-A), 2024 [[pdf](http://chenyu97.github.io)]
+[C.15] **Yu Chen**, Sheng Zhang, Ziying Zhou, Xiaokun Wang, Yu Liang, Ning Chen, Yuting Yan, Mingjun Xiao, Jie Wu, Zhuzhong Qian, and Harry Xu. MACRO: Incentivizing Multi-leader Game-based Pareto-efficient Crowdsourcing for Video Analytics. The 40th IEEE International Conference on Data Engineering (ICDE 2024, CCF-A), 2024 [[pdf](http://chenyu97.github.io)]
 
+[C.14] Shan Yu, Zhenting Zhu, **Yu Chen**, Hanchen Xu, Pengzhan Zhao, Yang Wang, Arthi Padmanabhan, Hugo Latapie, and Harry Xu. VQPy: An Object-Oriented Approach to Modern Video Analytics. The Seventh Annual Conference on Machine Learning and Systems (MLSys 2024), 2024 [[pdf](http://chenyu97.github.io)]
 
-[C.13] Shan Yu, Zhenting Zhu, **Yu Chen**, Hanchen Xu, Pengzhan Zhao, Yang Wang, Arthi Padmanabhan, Hugo Latapie, and Harry Xu. VQPy: An Object-Oriented Approach to Modern Video Analytics. The Seventh Annual Conference on Machine Learning and Systems (MLSys 2024), 2024 [[pdf](http://chenyu97.github.io)]
+[C.13] Yuting Yan, Sheng Zhang, Xiaokun Wang, Ning Chen, **Yu Chen**, Yu Liang, Mingjun Xiao and Sanglu Lu. VisFlow: Adaptive Content-Aware Video Analytics on Collaborative Cameras. IEEE Annual International Conference on Computer Communications (INFOCOM 2024, CCF-A), 2024 [[pdf](http://chenyu97.github.io)]
 
-[C.12] Yuting Yan, Sheng Zhang, Xiaokun Wang, Ning Chen, **Yu Chen**, Yu Liang, Mingjun Xiao and Sanglu Lu. VisFlow: Adaptive Content-Aware Video Analytics on Collaborative Cameras. IEEE Annual International Conference on Computer Communications (INFOCOM 2024, CCF-A), 2024 [[pdf](http://chenyu97.github.io)]
-
-[C.11]
+[C.12]
 Ning Chen, Sheng Zhang, Yu Liang, Jie Wu, **Yu Chen**, Yuting Yan, Zhuzhong Qian and Sanglu Lu. TileSR: Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity. IEEE Annual International Conference on Computer Communications (INFOCOM 2024, CCF-A), 2024 [[pdf](http://chenyu97.github.io)]
 
+[J.11] Yingcheng Gu, Liu Wei, Ning Jiang, Huanyu Cheng, Kai Liu, Yu Song, Meizhao Liu, Lei Tang, **Yu Chen**, Sheng Zhang. Edge Server Assignment for Distributed Interactive Applications in Edge Environments. CCFSys'23, 2023 [[pdf](http://chenyu97.github.io)]
 
 [C.10] Mingtao Ji, Chenwei Su, Yuting Yan, Zhuzhong Qian, Sheng Zhang, **Yu Chen**, Tuo Cao, Xiaohang Shi, Luis Vasquez, and Baoliu Ye. Adaptive Provisioning In-band Network Telemetry at Computing Power Network. In: IEEE/ACM International Symposium on Quality of Service (IWQoS 2023, CCF-B), Poster, 2023 [[pdf](http://chenyu97.github.io)]
 
