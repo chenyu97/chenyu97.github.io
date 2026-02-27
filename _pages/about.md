@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-可以这样翻译，正式且自然：
-
 I am Yu Chen, a Lecturer at the School of Smart Governance, Renmin University of China (Suzhou Campus).
 Before that, I obtained my Ph.D. degree at the School of Computer Science and Technology, Nanjing University.
 
