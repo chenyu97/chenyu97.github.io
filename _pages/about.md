@@ -43,9 +43,12 @@ I have published more than 20 papers, in journals such as ToN, TMC, TPDS, COMNET
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
+<!-- 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+--> 
 
 # 📖 Work & Education
 - *2025.01 - 2025.12*, Research Assistant, School of Computer Science and Technology, Nanjing University
