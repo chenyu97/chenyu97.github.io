@@ -117,7 +117,7 @@ Ning Chen, Sheng Zhang, Yu Liang, Jie Wu, **Yu Chen**, Yuting Yan, Zhuzhong Qian
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 --> 
 
-# 📖 Work&Education
+# 📖 Educations
 - *2025.01 - 2025.12*, Research Assistant, School of Computer Science and Technology, Nanjing University
 - *2019.06 - 2024.12*, Ph.D., School of Computer Science and Technology, Nanjing University
 - *2023.09 - 2024.09*, Research Assistant, Computer Science Department, UCLA
