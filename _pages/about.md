@@ -48,7 +48,7 @@ I have published more than 20 papers, in journals such as ToN, TMC, TPDS, COMNET
 
 ## <u>Journal Papers</u>
 
-[J.8] Ziying Zhou, Saini Yang, Siqin Wang, Xiaoyan Liu, Fuyu Hu, Yaqiao Wu, and Yu Chen. 
+[J.8] Ziying Zhou, Saini Yang, Siqin Wang, Xiaoyan Liu, Fuyu Hu, Yaqiao Wu, and **Yu Chen**. 
 ComHazAsTC-RRE: Compound Hazard Assessment of Tropical Cyclones within Repeatable, Reproducible, and Expandable Framework.
 Elsevier International Journal of Applied Earth Observation and Geoinformation, 2025 [[pdf](http://chenyu97.github.io)]
 
