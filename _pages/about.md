@@ -21,7 +21,7 @@ I am Yu Chen, a Lecturer at the School of Smart Governance, Renmin University of
 Before that, I obtained my B.S. and Ph.D. degrees at the School of Computer Science and Technology, Nanjing University.
 
 My research interest includes edge intelligence and LLM. 
-I have published more than 20 papers, in journals such as ToN, TMC, TPDS, COMNET and Journal of Software, and conferences such as ICDE, INFOCOM, MLSys, ICPP, IWQoS, ICC and ICPADS. I received the Best Paper Award in CCFSys'23.
+I have published more than 20 papers, in journals such as ToN, TMC, TPDS, COMNET and Journal of Software, and conferences such as ICDE, INFOCOM, MM, MLSys, ICPP, IWQoS, ICC and ICPADS. I received the Best Paper Award in CCFSys'23.
 <a href='https://scholar.google.com/citations?user=_YD6QzUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
