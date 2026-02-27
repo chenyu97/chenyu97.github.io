@@ -68,6 +68,8 @@ Elsevier International Journal of Applied Earth Observation and Geoinformation, 
 
 
 ## <u>Conference Papers</u>
+[C.16] Xiaokun Wang, Yuting Yan, Sheng Zhang, Andong Zhu, Ning Chen, **Yu Chen**, Zhuzhong Qian, Sanglu Lu, Yu Liang. Decode-What-Matters: Frame-Level Parallel Generative Decoding to Accelerate Large-Scale Video Analytics. Proceedings of the 33rd ACM International Conference on Multimedia (MM 2025, CCF-A), 2025 [[pdf](http://chenyu97.github.io)]
+
 [C.15] **Yu Chen**, Sheng Zhang, Ziying Zhou, Xiaokun Wang, Yu Liang, Ning Chen, Yuting Yan, Mingjun Xiao, Jie Wu, Zhuzhong Qian, and Harry Xu. MACRO: Incentivizing Multi-leader Game-based Pareto-efficient Crowdsourcing for Video Analytics. The 40th IEEE International Conference on Data Engineering (ICDE 2024, CCF-A), 2024 [[pdf](http://chenyu97.github.io)]
 
 [C.14] Shan Yu, Zhenting Zhu, **Yu Chen**, Hanchen Xu, Pengzhan Zhao, Yang Wang, Arthi Padmanabhan, Hugo Latapie, and Harry Xu. VQPy: An Object-Oriented Approach to Modern Video Analytics. The Seventh Annual Conference on Machine Learning and Systems (MLSys 2024), 2024 [[pdf](http://chenyu97.github.io)]
