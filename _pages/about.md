@@ -47,9 +47,12 @@ I have published more than 20 papers, in journals such as ToN, TMC, TPDS, COMNET
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2024.12*, School of Computer Science and Technology, Nanjing University
-- *2015.09 - 2019.06*, School of Computer Science and Technology, Nanjing University
+# 📖 Work & Education
+- *2025.01 - 2025.12*, Research Assistant, School of Computer Science and Technology, Nanjing University
+- *2019.06 - 2024.12*, Ph.D., School of Computer Science and Technology, Nanjing University
+- *2023.09 - 2024.09*, Research Assistant, Computer Science Department, UCLA
+- *2021.09 - 2022.05*, Research Intern, DAMO Academy, ALibaba
+- *2015.09 - 2019.06*, B.S., School of Computer Science and Technology, Nanjing University
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
