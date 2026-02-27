@@ -47,6 +47,11 @@ I have published more than 20 papers, in journals such as ToN, TMC, TPDS, COMNET
 --> 
 
 ## <u>Journal Papers</u>
+
+[J.8] Ziying Zhou, Saini Yang, Siqin Wang, Xiaoyan Liu, Fuyu Hu, Yaqiao Wu, and Yu Chen. 
+ComHazAsTC-RRE: Compound Hazard Assessment of Tropical Cyclones within Repeatable, Reproducible, and Expandable Framework.
+Elsevier International Journal of Applied Earth Observation and Geoinformation, 2025 [[pdf](http://chenyu97.github.io)]
+
 [J.7] 顾颖程, 魏柳, 姜宁, 程环宇, 刘凯, 宋玉, 刘梅招, 汤雷, **陈彧**, 张胜. 边缘场景下面向分布式交互应用的服务器分配. 计算机工程与科学, 2024 [[pdf](http://chenyu97.github.io)]
 
 [J.6] Mingtao Ji, Chenwei Su, Yitao Fan, Yibo Jin, Zhuzhong Qian, Yuting Yan, **Yu Chen**, Tuo Cao, Sheng Zhang, Baoliu Ye. INTaaS: Provisioning In-band Network Telemetry as a service via online learning. Elsevier Computer Networks, (COMNET 2024, CCF-B), 2024 [[pdf](http://chenyu97.github.io)]
