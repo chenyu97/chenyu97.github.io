@@ -26,7 +26,10 @@ I have published more than 20 papers, in journals such as ToN, TMC, TPDS, COMNET
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Hello World!
+- *2026.07*: &nbsp;🧪 Joined DEMI Lab (Data Engineering & Multimodal Intelligence Laboratory) at RUC! [Link](https://demi-research.github.io/)
+- *2026.07*: &nbsp;🔖 Patent granted for our work on worker selection and task assignment in crowdsourcing systems!
+- *2026.06*: &nbsp;🎯 Approved for the Open Research Project at the State Key Lab for Novel Software Technology (NJU)!
+- *2026.02*: &nbsp;🎉 Hello World!
 
 # 📝 Publications 
 
@@ -110,6 +113,7 @@ Ning Chen, Sheng Zhang, Yu Liang, Jie Wu, **Yu Chen**, Yuting Yan, Zhuzhong Qian
 ## <u>Patent</u>
 [P.1] Pengju Jiao, Sheng Zhang, **Yu Chen** and Zhuzhong Qian. VNF migration method and device and storage medium (一种VNF迁移方法、装置及存储介质). Authorization Number: 112019368 [[link](https://patentscope2.wipo.int/search/zh/detail.jsf?docId=CN313574349&_cid=JP2-LDNY63-89791-1)]
 
+[P.2] **陈彧**, 张胜, 钱柱中, 陆桑璐. 一种众包系统中工人选择和任务分派方法及装置.
 
 <!-- 
 # 🎖 Honors and Awards
